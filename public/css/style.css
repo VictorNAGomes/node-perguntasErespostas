@@ -1,0 +1,19 @@
+body{
+    background-color: #c6ced4;
+}
+
+#a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#a p{
+    margin-top: .7rem;
+}
+
+#form-perg{
+    margin-top: 5vh;
+}
+
